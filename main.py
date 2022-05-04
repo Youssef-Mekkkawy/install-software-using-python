@@ -1,7 +1,11 @@
 from install import Install
 import os
 from termcolor import colored
-
+"""
+Extentions:
+    # EXE.
+    # MSI.
+"""
 # Path of Software
 Software_Path = "Path Your Software"
 # Software Name {Get Name from Path}.
